@@ -17,5 +17,6 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    "import/no-duplicates": ["error", { "ignoreCase": true }]
   },
 }
