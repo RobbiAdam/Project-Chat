@@ -1,9 +1,11 @@
-Project Chat 
-Tech and feature that are being used:
+Project Chat
+Technologies used: 
 1. MERN + Socket.io + TailwindCSS + Daisy UI
-2. Authentication && Authorization with JWT
-3. Socket.io for realtime messaging
-4. Global state management with Zustand
+
+Feature that are being implemendted:
+1. Authentication && Authorization with JWT
+2. Socket.io for realtime messaging
+3. Global state management with Zustand
 
 Build command:
 npm run build
